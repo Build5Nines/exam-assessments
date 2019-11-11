@@ -4,7 +4,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 ## Download Self Assessments
 
-- [Microsoft AZ-103 Azure Administrator Exam](blog/master/Assessments/Exam-Msft-AZ-103-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [Microsoft AZ-103 Azure Administrator Exam](Assessments/Exam-Msft-AZ-103-Self-Assessment-Build5Nines.xlsx?raw=1)
 
 **We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.**
 
