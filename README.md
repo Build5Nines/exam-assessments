@@ -10,10 +10,6 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 ## FAQ
 
-### How do I use this self assessment tool?
-
-Need help using the self assessment tool? Go check out Chris Pietschmann's blog post, "", that describes how to use the Self Assessment tool.
-
 ### Who created these self assessments?
 
 This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Dan to put together these Self Assessments so other have an easy to use tool for better exam study preparation!
