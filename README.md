@@ -20,4 +20,4 @@ _P.S. I know there's only an AZ-103 self assessment right now. The goal is to ad
 
 This project is licensed under the [MIT License](https://github.com/Build5Nines/exam-assessments/blob/master/LICENSE). Feel free to use these as you need; as is. Keep in mind that all exam Objective Domain info/text is copyright by the vendor that creates/maintains the certification exam.
 
-Please submit any feedback and/or suggestions on how to improve these self assessments as an [Issue](issues) on this GitHub project.
+Please submit any feedback and/or suggestions on how to improve these self assessments as an **Issue** on this GitHub project.
