@@ -14,7 +14,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 ### How do I use this self assessment tool?
 
-Need help using the self assessment tool? Go check out Chris Pietschmann's blog post, "[Free Azure AZ-103 Exam Self Assessment Tool](https://build5nines.com/free-oss-exam-self-assessment-tool/)", that describes how to use the Self Assessment tool.
+Need help using the self assessment tool? Go check out Chris Pietschmann's blog post, "[Free Azure Certification Exam Self Assessment Tools](https://build5nines.com/free-oss-exam-self-assessment-tool/)", that describes how to use the Self Assessment tools.
 
 ### Who created these self assessments?
 
