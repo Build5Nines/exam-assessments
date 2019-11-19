@@ -1,0 +1,56 @@
+<html>
+<head>
+    <script>
+        function generate(){
+            var min = +document.getElementById('startrow').value,
+                max = +document.getElementById('endrow').value;
+
+            document.getElementById('formula').value = '';
+
+            if (max < min){
+                alert('The Start Row must be less than or equal to the End Row.');
+                return;
+            }
+
+            var template = 'VLOOKUP(D#,List_Categories,2,FALSE)';
+
+            var s = '';
+            for(var i = min; i < max + 1; i++) {
+                s += template.replace('#', i);
+                if (i < max){
+                    s+= '+';
+                }
+            }
+
+            document.getElementById('formula').value = '=(' + s + ')/' + (max - min + 1);
+        }
+    </script>
+</head>
+<body>
+    <h1>Generate Percentage Calculation Formula for Excel</h1>
+    <table>
+        <tr>
+            <td>Start Row</td>
+            <td>D<input id="startrow" type="number" value="1"/></td>
+        </tr>
+        <tr>
+            <td>End Row</td>
+            <td>D<input id="endrow" type="number" value="1"/></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <button onclick="generate();">Generate</button>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p>Generated Excel Formula:</p>
+                <p>
+                    <textarea id='formula' cols="75" rows="25"></textarea>
+                </p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
