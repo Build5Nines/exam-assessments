@@ -8,6 +8,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 - [AZ-103 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-103-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-203 Developing Solutions for Microsoft Azure Exam](Assessments/Exam-Msft-AZ-203-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-300 Microsoft Azure Architect Technologies Exam](Assessments/Exam-Msft-AZ-300-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [AZ-500 Microsoft Azure Security Technologies Exam](Assessments/Exam-Msft-AZ-500-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-900 Microsoft Azure Fundamentals Technologies Exam](Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1)
 
 **We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.**
