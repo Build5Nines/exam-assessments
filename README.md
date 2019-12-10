@@ -24,8 +24,6 @@ Need help using the self assessment tool? Go check out Chris Pietschmann's blog 
 
 This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Dan to put together these Self Assessments so other have an easy to use tool for better exam study preparation!
 
-_P.S. I know there's only an AZ-103 self assessment right now. The goal is to add self assessments for additional certification exams over time. :)_
-
 ### How are these self assessments licensed?
 
 This project is licensed under the [MIT License](https://github.com/Build5Nines/exam-assessments/blob/master/LICENSE). Feel free to use these as you need; as is. Keep in mind that all exam Objective Domain info/text is copyright by the vendor that creates/maintains the certification exam.
