@@ -1,6 +1,6 @@
 # Build5Nines Exam Assessments
 
-This is a collection of Self Assessment tools to help you study for certification exams. All self assessments are built as Excel Spreadsheets. This help you be able to easily save the self assessments for reference and editing as you progress through your certification journey.
+This is a collection of Self Assessment tools to help you study for certification exams. All self assessments are built as Excel Spreadsheets (.xlsx). This help you be able to easily save the self assessments for reference and editing as you progress through your certification journey.
 
 ## Download Certification Exam Self Assessments
 
