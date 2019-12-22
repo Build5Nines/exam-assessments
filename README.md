@@ -2,7 +2,11 @@
 
 This is a collection of Self Assessment tools to help you study for certification exams. All self assessments are built as Excel Spreadsheets. This help you be able to easily save the self assessments for reference and editing as you progress through your certification journey.
 
-## Download Self Assessments
+## Download Certification Exam Self Assessments
+
+We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
+
+### Microsoft Exam Self Assessments
 
 - [AI-100 Designing and Implementing and Azure AI Solutions Exam](Assessments/Exam-Msft-AI-100-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-103 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-103-Self-Assessment-Build5Nines.xlsx?raw=1)
@@ -13,7 +17,6 @@ This is a collection of Self Assessment tools to help you study for certificatio
 - [AZ-500 Microsoft Azure Security Technologies Exam](Assessments/Exam-Msft-AZ-500-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-900 Microsoft Azure Fundamentals Technologies Exam](Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1)
 
-**We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.**
 
 ## FAQ
 
