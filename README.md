@@ -16,6 +16,7 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 - [AZ-400 Microsoft Azure DevOps Solutions Exam](Assessments/Exam-Msft-AZ-400-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-500 Microsoft Azure Security Technologies Exam](Assessments/Exam-Msft-AZ-500-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-900 Microsoft Azure Fundamentals Technologies Exam](Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [DP-100 Designing and Implementing a Data Science Solution on Azure Exam](Assessments/Exam-Msft-DP-100-Self-Assessment-Build5Nines.xlsx?raw=1)
 
 
 ## FAQ
