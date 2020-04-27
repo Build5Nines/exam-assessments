@@ -20,6 +20,7 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 - [DP-100 Designing and Implementing a Data Science Solution on Azure Exam](Assessments/Exam-Msft-DP-100-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [DP-200 Implementing an Azure Data Solution Exam](Assessments/Exam-Msft-DP-200-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [DP-201 Designing an Azure Data Solution Exam](Assessments/Exam-Msft-DP-201-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [MS-101 Microsoft 365 Mobility and Security Exam](Assessments/Exam-Msft-MS-101-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [PL-900 Microsoft Power Platform Fundamentals Exam](Assessments/Exam-Msft-PL-900-Self-Assessment-Build5Nines.xlsx?raw=1)
 
 ## FAQ
