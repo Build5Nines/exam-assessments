@@ -7,6 +7,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
 
 ### Microsoft Exam Self Assessments
+**Note: At this time, only AZ-104 has been updated to current exam guide. Expect updates to AZ-303, 304, 500, and 900 in the future.**
 
 - [AI-100 Designing and Implementing and Azure AI Solutions Exam](Assessments/Exam-Msft-AI-100-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [UPDATED: AZ-104 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-104-Self-Assessment-Build5Nines.xlsx?raw=1)
