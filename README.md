@@ -35,6 +35,8 @@ Need help using the self assessment tool? Go check out Chris Pietschmann's blog 
 
 This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Dan to put together these Self Assessments so everyone has an easy to use tool for better exam study and preparation!
 
+This forked repo is maintained and updated by [Michael Bender](https://twitter.com/michaelbender) in accordance with the MIT license set forth in the original repo. Best of luck with your certification journey.
+
 ### How are these self assessments licensed?
 
 This project is licensed under the [MIT License](https://github.com/Build5Nines/exam-assessments/blob/master/LICENSE). Feel free to use these as you need; as is. Keep in mind that all exam Objective Domain info/text is copyright by the vendor that creates/maintains the certification exam.
