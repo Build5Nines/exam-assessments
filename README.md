@@ -14,6 +14,7 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 - [AZ-220 Microsoft Azure IoT Developer Exam](Assessments/Exam-Msft-AZ-220-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-300 Microsoft Azure Architect Technologies Exam](Assessments/Exam-Msft-AZ-300-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-301 Microsoft Azure Architect Design Exam](Assessments/Exam-Msft-AZ-301-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [AZ-305 Designing Microsoft Azure Infrastructure Solutions](Assessments/Exam-Msft-AZ-305-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-400 Microsoft Azure DevOps Solutions Exam](Assessments/Exam-Msft-AZ-400-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-500 Microsoft Azure Security Technologies Exam](Assessments/Exam-Msft-AZ-500-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-900 Microsoft Azure Fundamentals Technologies Exam](Assessments/Exam-Msft-AZ-900-Self-Assessment-Build5Nines.xlsx?raw=1)
