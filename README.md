@@ -7,9 +7,11 @@ This is a collection of Self Assessment tools to help you study for certificatio
 We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
 
 ### Microsoft Exam Self Assessments
+**Note: At this time, only AZ-104 has been updated to current exam guide. Expect updates to AZ-303, 304, 500, and 900 in the future.**
 
 - [AI-100 Designing and Implementing and Azure AI Solutions Exam](Assessments/Exam-Msft-AI-100-Self-Assessment-Build5Nines.xlsx?raw=1)
-- [AZ-103 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-103-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [UPDATED: AZ-104 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-104-Self-Assessment-Build5Nines.xlsx?raw=1)
+  - [Example of AZ-104 Microsoft Azure Administrator Exam](Assessments/Exam-Msft-AZ-104-Self-Assessment-Build5Nines-Example.xlsx?raw=1)
 - [AZ-203 Developing Solutions for Microsoft Azure Exam](Assessments/Exam-Msft-AZ-203-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-220 Microsoft Azure IoT Developer Exam](Assessments/Exam-Msft-AZ-220-Self-Assessment-Build5Nines.xlsx?raw=1)
 - [AZ-300 Microsoft Azure Architect Technologies Exam](Assessments/Exam-Msft-AZ-300-Self-Assessment-Build5Nines.xlsx?raw=1)
@@ -33,6 +35,8 @@ Need help using the self assessment tool? Go check out Chris Pietschmann's blog 
 ### Who created these self assessments?
 
 This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Dan to put together these Self Assessments so everyone has an easy to use tool for better exam study and preparation!
+
+This forked repo is maintained and updated by [Michael Bender](https://twitter.com/michaelbender) in accordance with the MIT license set forth in the original repo. Best of luck with your certification journey.
 
 ### How are these self assessments licensed?
 
