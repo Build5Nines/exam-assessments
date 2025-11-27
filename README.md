@@ -32,7 +32,7 @@ Need help using the self assessment tool? Go check out Chris Pietschmann's blog 
 
 ### Who created these self assessments?
 
-This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Dan to put together these Self Assessments so everyone has an easy to use tool for better exam study and preparation!
+This model of how to perform an Exam Self Assessment gew out of a concept that [Reid Patrick](https://kelomai.io) practices and recommends to use when studying for certification exams. [Chris Pietschmann](https://pietschsoft.com) collaborated with Reid to put together these Self Assessments so everyone has an easy to use tool for better exam study and preparation!
 
 ### How are these self assessments licensed?
 
